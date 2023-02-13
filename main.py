@@ -5,8 +5,8 @@ import machine
 from machine import Pin
 
 #RED WiFi
-ssid = 'INFINITUMB70C_2.4_EXT'
-password = 'UM7YAsMJ2p'
+ssid = 'INGRESAR NOMBRE RED WIFI'
+password = 'CLAVE DE RED WIFI'
 
 #Asignación de Pins!
 MotorA_Adelante = Pin(5, Pin.OUT)
